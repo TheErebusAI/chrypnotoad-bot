@@ -1,0 +1,14 @@
+{
+    "token": null,
+    "channel_id": null,
+    "owner_id": null,
+    "spam_patterns": [
+        "(?i)t\\.me/\\+",
+        "(?i)https?://(?!t\\.me)",
+        "(?i)buy|sell|crypto|bitcoin|eth|bnb|pump",
+        "(?i)admin.*(?:needed|required|wanted)",
+        "(?i)earn.*money|make.*money"
+    ],
+    "banned_words": [],
+    "whitelisted_users": []
+}
